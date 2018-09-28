@@ -1,0 +1,12 @@
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\bin\Debug\RabbitMQ Demo.exe.config
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\bin\Debug\RabbitMQ Demo.exe
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\bin\Debug\RabbitMQ Demo.pdb
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\bin\Debug\RabbitMQ.Client.dll
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\bin\Debug\RabbitMQ.Client.xml
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\obj\Debug\RabbitMQ Demo.csprojAssemblyReference.cache
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\obj\Debug\RabbitMQ Demo.csproj.CoreCompileInputs.cache
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\obj\Debug\RabbitMQ Demo.csproj.CopyComplete
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\obj\Debug\RabbitMQ Demo.exe
+C:\SwiftBox\Git\GithubRepo\RabbitMQ Demo\RabbitMQ Demo\obj\Debug\RabbitMQ Demo.pdb
